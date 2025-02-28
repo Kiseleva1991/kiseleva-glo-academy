@@ -1,0 +1,24 @@
+html {
+  font-size: 10px;
+}
+.button {
+  background-color: #f6ae00;
+  color: #ffffff;
+  padding: 1rem 3rem;
+  border-radius: 8px;
+  text-transform: uppercase;
+  border: none;
+}
+section {
+  padding: 10rem 0;
+}
+main {
+  padding: 3rem 0;
+}
+.phone-link {
+  display: inline-block;
+  color: #1a1820;
+  font-weight: 900;
+  font-size: 2rem;
+  text-decoration: none;
+}
